@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hajhana/tinyapp/issues"
   },
-  "homepage": "https://github.com/hajhana/tinyapp#readme"
+  "homepage": "https://github.com/hajhana/tinyapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
