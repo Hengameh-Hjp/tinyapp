@@ -4,10 +4,10 @@ TinyApp is a full stack web application built with Node and Express that allows 
 
 ## Final Product
 
-!["This is a login page."](#https://github.com/hajhana/tinyapp/blob/master/docs/login-page.png)
-!["This page shows when you login as a user"](#)
-!["This page shows the registration form"](#)
-!["This page shows when you login and want to create new url"](#)
+!["This is a login page."](https://github.com/hajhana/tinyapp/blob/master/docs/login-page.png)
+!["This page shows when you login as a user"](https://github.com/hajhana/tinyapp/blob/master/docs/loginas-page.png)
+!["This page shows the registration form"](https://github.com/hajhana/tinyapp/blob/master/docs/register-page.png)
+!["This page shows when you login and want to create new url"](https://github.com/hajhana/tinyapp/blob/master/docs/urls-new.png)
 ## Dependencies
 
 - Node.js
