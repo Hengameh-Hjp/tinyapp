@@ -151,7 +151,7 @@ app.post('/register', (req, res) => {
       users[userID] = {
         userID,
         email: req.body.email,
-        password: bcrypt.hashSync(req.body.password, 10)
+        password: req.body.password
       };
       req.session.userID = userID;
       res.redirect('/urls');
